@@ -1,7 +1,8 @@
-# 🚀 Project Name
+# 🚀 AI Tycoons
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
+- Implement a chat based application using AI
 - [Demo](#demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
